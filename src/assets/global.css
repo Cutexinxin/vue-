@@ -1,0 +1,45 @@
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  min-width: 1366px;
+}
+.login_container{
+     background-image: url("./image//商城登录背景.jpg");
+     background-position-x: 55%;
+     background-repeat:no-repeat;
+    height: 100%;
+}
+.box-card{
+    background-image: url("./image/1.jpg");
+    background-repeat:no-repeat; 
+    width: 50%;
+    height: 50%;
+}
+.el-breadcrumb {
+  margin-bottom: 15px;
+  font-size: 12px;
+}
+
+.el-card {
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15) !important;
+}
+
+.el-table {
+  margin-top: 15px;
+  font-size: 12px;
+}
+
+.el-pagination {
+  margin-top: 15px;
+}
+
+.el-steps {
+  margin: 15px 0;
+}
+
+.el-step__title {
+  font-size: 13px;
+}
